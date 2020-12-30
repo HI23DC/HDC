@@ -1,0 +1,19 @@
+{
+  "name": "hdc",
+  "version": "1.0.0",
+  "description": "fase de teste",
+  "main": "index.js",
+  "scripts": {
+    "test": "hdc()"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HI23DC/HDC.git"
+  },
+  "author": "Jack Dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HI23DC/HDC/issues"
+  },
+  "homepage": "https://github.com/HI23DC/HDC#readme"
+}
